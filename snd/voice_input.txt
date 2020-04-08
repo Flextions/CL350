@@ -1,0 +1,248 @@
+0.0|en-GB|male|CHALLENGER 3 50... MEMORY ITEMS
+1.0|en-GB|female|cabin altitude...
+2.0|en-GB|female|left or right bleed leak...
+3.0|en-GB|female|pack leak...
+4.0|en-GB|female|left or right pylon bleed leak...
+5.0|en-GB|female|trim air leak...
+6.0|en-GB|female|a p u fire...
+7.0|en-GB|female|a p u overtemp...
+8.0|en-GB|female|taws aural pull up...
+9.0|en-GB|female|windshear...
+10.0|en-GB|female|left or right battery overheat...
+11.0|en-GB|female|emergency evacuation...
+12.0|en-GB|female|pitch uncommanded motion...
+13.0|en-GB|female|roll or yaw uncommanded motion...
+14.0|en-GB|female|pitch control jam...
+15.0|en-GB|female|roll control jam...
+16.0|en-GB|female|wing anti-ice leak...
+17.0|en-GB|female|left or right wing overheat...
+18.0|en-GB|female|gear bay overheat...
+19.0|en-GB|female|normal brakes fail...
+20.0|en-GB|female|left or right engine exceedance...
+21.0|en-GB|female|overspeed...
+22.0|en-GB|female|left or right engine fire below v1...
+23.0|en-GB|female|left or right engine fire above v1...
+24.0|en-GB|female|left or right engine fire in flight...
+25.0|en-GB|female|left or right reverser unsafe below v1...
+26.0|en-GB|female|left or right reverser unsafe above v1...
+27.0|en-GB|female|dual engine flameout...
+28.0|en-GB|female|engine failure below v1...
+29.0|en-GB|female|engine failure above v1...
+30.0|en-GB|female|rejected takeoff...
+31.0|en-GB|female|cabin cockpit fire, smoke, or fumes...
+32.0|en-GB|female|stall...
+1.0.0|en-US|male|crew oxygen masks
+1.0.1|en-US|female|dawn
+1.0.2|en-US|male|oxygen mask normal
+1.0.3|en-US|female|oxygen mask
+1.0.4|en-US|male|thrust levers
+1.0.5|en-US|female|idle
+1.0.6|en-US|male|autopilot
+1.0.7|en-US|female|disconnect
+1.0.8|en-US|male|flight spoilers
+1.0.9|en-US|female|emergency
+1.0.10|en-US|male|descend at M M O, V M O, but not below min safe altitude
+2.0.0|en-US|male|cross bleed
+2.0.1|en-US|female|closed
+2.0.2|en-US|male|affected bleed
+2.0.3|en-US|female|off
+2.0.4|en-US|male|if right bleed leak is on
+2.0.5|en-US|male|left bleed
+2.0.6|en-US|female|on
+2.0.7|en-US|male|A P U bleed
+2.0.8|en-US|female|off
+3.0.0|en-US|male|air source
+3.0.1|en-US|female|trim air only
+4.0.0|en-US|male|thrust lever
+4.0.1|en-US|female|idle
+5.0.0|en-US|male|air source
+5.0.1|en-US|female|pack air only
+6.0.0|en-US|male|A P U fire
+6.0.1|en-US|female|fire push
+6.0.2|en-US|male|fire extinguisher number 2
+6.0.3|en-US|female|armed push
+7.0.0|en-US|male|A P U
+7.0.1|en-US|female|off
+8.0.0|en-US|male|autopilot
+8.0.1|en-US|female|disengage
+8.0.2|en-US|male|thrust levers
+8.0.3|en-US|female|A P R
+8.0.4|en-US|male|flight spoilers
+8.0.5|en-US|female|retract
+8.0.6|en-US|male|climb at maximum practical rate
+8.0.7|en-US|male|landing gear
+8.0.8|en-US|female|up
+9.0.0|en-US|male|autopilot
+9.0.1|en-US|female|disengage
+9.0.2|en-US|male|thrust levers
+9.0.3|en-US|female|A P R
+9.0.4|en-US|male|flight spoilers
+9.0.5|en-US|female|retract
+9.0.6|en-US|male|row tate smoothly to takeoff go around pitch attitude, allowing airspeed to decrease if necessary. maintain wings level. do not retract flaps or landing gear.
+10.0.0|en-US|male|affected battery switch
+10.0.1|en-US|female|off
+11.0.0|en-US|male|parking emergency brake
+11.0.1|en-US|female|set
+11.0.2|en-US|male|emergency depressurization
+11.0.3|en-US|female|on
+11.0.4|en-US|male|left and right engine, and A P U fire switches
+11.0.5|en-US|female|push
+11.0.6|en-US|male|evacuation
+11.0.7|en-US|female|command
+11.0.8|en-US|male|controlling agency
+11.0.9|en-US|female|notify
+11.0.10|en-US|male|standby instrument
+11.0.11|en-US|female|off
+11.0.12|en-US|male|left and right batteries
+11.0.13|en-US|female|off
+12.0.0|en-US|male|master disconnect switch
+12.0.1|en-US|female|depress and hold
+13.0.0|en-US|male|master disconnect switch
+13.0.1|en-US|female|depress and hold
+14.0.0|en-US|male|pitch disconnect
+14.0.1|en-US|female|pull and turn
+14.0.2|en-US|male|determine the side without the jam and transfer control to that pilot
+14.0.3|en-US|male|Do not apply additional control force to a jammed control
+14.0.4|en-US|male|Do not reconnect
+15.0.0|en-US|male|roll disconnect lever
+15.0.1|en-US|female|pull
+15.0.2|en-US|male|determine the side without the jam and transfer control to that pilot
+16.0.0|en-US|male|wing anti-ice
+16.0.1|en-US|female|off
+17.0.0|en-US|male|wing anti-ice
+17.0.1|en-US|female|off
+18.0.0|en-US|male|airspeed
+18.0.1|en-US|female|250 knots maximum
+18.0.2|en-US|male|landing gear
+18.0.3|en-US|female|down
+19.0.0|en-US|male|normal actual landing distance
+19.0.1|en-US|female|multiply by
+19.0.2|en-US|female|1.65 without thrust reversers
+19.0.3|en-US|female|and 1.5 with thrust reversers
+19.0.4|en-US|male|flight spoilers
+19.0.5|en-US|female|emergency
+19.0.6|en-US|male|parking emergency brake
+19.0.7|en-US|female|pull smoothly
+20.0.0|en-US|male|thrust lever
+20.0.1|en-US|female|retard
+21.0.0|en-US|male|thrust levers
+21.0.1|en-US|female|idle
+21.0.2|en-US|male|autopilot
+21.0.3|en-US|female|disconnect
+21.0.4|en-US|male|flight spoilers
+21.0.5|en-US|female|emergency
+21.0.6|en-US|male|level wings, then pitch up
+22.0.0|en-US|male|thrust levers
+22.0.1|en-US|female|idle
+22.0.2|en-US|male|brakes
+22.0.3|en-US|female|maximum
+22.0.4|en-US|male|thrust reversers
+22.0.5|en-US|female|max reverse
+22.0.6|en-US|male|after stopping
+22.0.7|en-US|male|parking emergency brake
+22.0.8|en-US|female|set
+22.0.9|en-US|male|affected engine fire switch
+22.0.10|en-US|female|fire push
+22.0.11|en-US|male|fire extinguisher number 1 and 2
+22.0.12|en-US|female|armed push
+22.0.13|en-US|male|emergency depressurization
+22.0.14|en-US|female|on
+22.0.15|en-US|male|non-affected engine and A P U fire switches
+22.0.16|en-US|female|push
+22.0.17|en-US|male|evacuation
+22.0.18|en-US|female|command
+22.0.19|en-US|male|controlling agency
+22.0.20|en-US|female|notify
+22.0.21|en-US|male|standby instrument
+22.0.22|en-US|female|off
+22.0.23|en-US|male|left and right batteries
+22.0.24|en-US|female|off
+23.0.0|en-US|male|rotate at V R
+23.0.1|en-US|male|pitch attitude
+23.0.2|en-US|female|adjust to V 2
+23.0.3|en-US|male|landing gear
+23.0.4|en-US|female|up
+23.0.5|en-US|male|affected thrust lever
+23.0.6|en-US|female|idle unless a critical thrust situation exists
+23.0.7|en-US|male|affected engine fire
+23.0.8|en-US|female|fire push
+23.0.9|en-US|male|if fire indications persist beyond 10 seconds
+23.0.10|en-US|male|fire extinguisher number 1
+23.0.11|en-US|female|armed push
+23.0.12|en-US|male|if fire indications persist beyond 30 seconds
+23.0.13|en-US|male|fire extinguisher number 2
+23.0.14|en-US|female|armed push
+24.0.0|en-US|male|affected thrust lever
+24.0.1|en-US|female|idle unless a critical thrust situation exists
+24.0.2|en-US|male|affected engine fire
+24.0.3|en-US|female|fire push
+24.0.4|en-US|male|if fire indications persist after 10 seconds
+24.0.5|en-US|male|fire extinguisher number 1
+24.0.6|en-US|female|armed push
+24.0.7|en-US|male|if fire indications persist after 30 seconds
+24.0.8|en-US|male|fire extinguisher number 2
+24.0.9|en-US|female|armed push
+25.0.0|en-US|male|thrust levers
+25.0.1|en-US|female|idle
+25.0.2|en-US|male|brakes
+25.0.3|en-US|female|maximum
+25.0.4|en-US|male|thrust reversers
+25.0.5|en-US|female|max reverse
+26.0.0|en-US|male|rotate at V R
+26.0.1|en-US|male|pitch attitude
+26.0.2|en-US|female|adjust to V 2
+26.0.3|en-US|male|landing gear
+26.0.4|en-US|female|up
+26.0.5|en-US|male|affected thrust lever
+26.0.6|en-US|female|idle
+27.0.0|en-US|male|crew oxygen masks if above fourteen thousand feet
+27.0.1|en-US|female|dawn
+27.0.2|en-US|male|oxygen mask normal
+27.0.3|en-US|female|oxygen mask
+27.0.4|en-US|male|airspeed
+27.0.5|en-US|female|185 knots
+28.0.0|en-US|male|thrust levers
+28.0.1|en-US|female|idle
+28.0.2|en-US|male|brakes
+28.0.3|en-US|female|maximum
+28.0.4|en-US|male|thrust reversers
+28.0.5|en-US|female|max reverse
+29.0.0|en-US|male|rotate at V R
+29.0.1|en-US|male|pitch attitude
+29.0.2|en-US|female|adjust to V 2
+29.0.3|en-US|male|landing gear
+29.0.4|en-US|female|up
+30.0.0|en-US|male|thrust levers
+30.0.1|en-US|female|idle
+30.0.2|en-US|male|brakes
+30.0.3|en-US|female|maximum
+30.0.4|en-US|male|thrust reversers
+30.0.5|en-US|female|max reverse
+31.0.0|en-US|male|crew o2
+31.0.1|en-US|female|dawn and select emergency
+31.0.2|en-US|male|smoke goggles
+31.0.3|en-US|female|dawn
+31.0.4|en-US|male|oxygen mask normal
+31.0.5|en-US|female|oxygen mask
+32.0.0|en-US|male|lower pitch attitude to reduce the angle of attack
+32.0.1|en-US|male|thrust levers
+32.0.2|en-US|female|A P R
+32.0.3|en-US|male|flight spoilers
+32.0.4|en-US|female|retract
+32.0.5|en-US|male|level the wings
+33.0|en-GB|female|Unreliable airspeed
+33.0.0|en-US|female|caution, respect all stall warning and stick pusher indications
+33.0.1|en-US|male|autopilot
+33.0.2|en-US|female|off
+33.0.3|en-US|male|flight directors
+33.0.4|en-US|female|off
+33.0.5|en-GB|female|above minimum safe altitude
+33.0.6|en-US|male|proceed to A V N C zero 2 dash 17 step 7
+33.0.7|en-GB|female|below minimum safe altitude
+33.0.8|en-US|male|pitch,, N 1
+33.0.9|en-US|female|15 degrees and take off
+33.0.10|en-US|male|go around
+33.0.11|en-US|female|initiate, clean up and climb above minimum safe altitude
+33.0.12|en-GB|female|in mountainous terrain or high M S A above 15,000 feet
+33.0.13|en-US|male|pitch,, N 1
+33.0.14|en-US|female|10 degrees and climb

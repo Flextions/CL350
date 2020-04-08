@@ -1,0 +1,26 @@
+# ignore the files below from the git repository
+
+todo.md
+brainscape_CL350
+brainscape_Pridy
+original_limitations_mem_items
+Challenger 300_350 Memory Items and Limitations Rev 3.pdf
+.gitignore
+markdown/
+
+### Vim ###
+# swap
+.sw[a-p]
+.*.sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata

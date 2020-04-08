@@ -1,0 +1,2 @@
+33.0.5|en-GB|female|above minimum safe altitude
+33.0.7|en-GB|female|below minimum safe altitude

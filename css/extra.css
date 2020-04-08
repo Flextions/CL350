@@ -1,0 +1,20 @@
+h3 {
+  background-color: rgb(26, 26, 26);
+}
+
+.warn {
+  color: red;
+}
+
+h3 .warn:hover {
+  color: darkred;
+}
+
+.reveal ol span:nth-child(2) {
+  float: right;
+}
+
+.reveal ol {
+  list-style-type: none;
+  width: 80%;
+}
